@@ -13,9 +13,6 @@ app.use(cors({
 }));
 app.use(express.json());
 
-// SIRVE ARCHIVOS ESTÁTICOS DEL FRONTEND
-app.use(express.static(path.join(__dirname, 'public')));
-
 const FOLDER_ID = '18W0EM6vs0sJ1M0Qrpu6HC2r32ZQ8IIgV'; // ID de tu carpeta de Google Drive
 
 app.get('/api/drive-files', async (req, res) => {
@@ -82,4 +79,4 @@ app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
-app.listen(3000, () => console.log('Servidor en http://localhost:3000')); 
+module.exports = app; 
