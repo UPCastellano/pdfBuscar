@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bitacora-458317",
+  "private_key_id": "9425b4733fb2605ab4d0eae46e536bf4e73a85c2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDH0YubQVtPSDNL\nYMER8IV6SfEKA+lvlRXKO5nSvkrgnPuy9Mty7rWTvy7KHYewKBdQh2uZEcmLMIM8\nsUzP8fHMjc0OpUFLu7VXWn3u3sl37NEA3snHvCg8rRdE7ZUioqPJH8hC269d4ipQ\nVr+o7soTFGeXTmnPC89HsZ2j8Rc8ngxefJLYxt4wviaRw1S6j05K1CAFdO86xQf0\nXakt6ObhO63AeCRbxVO8YBMWIUdb1tVTVhDvnrRETuR3/DYdDVo5GqVcD/PsekBy\nVQAcoICrPoYEa2PIXdwHEFWS/+Kfat+LZn4rhgAlMvxmvQac8qVMtKHOQhyDSme1\n7DoVdJnrAgMBAAECggEAAXHXPQ71aTbVQXEYeZflbH4WszhWWpCs4NKafka9mtnN\nC2ewBYuKnjVZJ2vxkbP7KywMz/ABfDNPF5lpO+2nY7pjZlI1N9DKcwW7+FtTAJN3\n6rYxpkiKz+7Txr34VeZFdzb2xzOjFR4v/ncKGV9p8EZgU1yP8PJzFAp0NdMQlHHF\nfAiyhV3Mgw73gHpoEU7CI6OVDwF6HVZR9hTh2khSU3YxYyg8FgxsVvY+ppC0wrLW\na9J4GpfSCd2LHY5ScWLOYeZR+0Fjet3VodZLMvHrweoUyzdx8hU/kVJC0CUq9/Yl\n3O0GwIWB69ZLmubw+i4akZapk560PNGPUKK+U8qJmQKBgQDm2JGLPFcTbQ/+acXq\nqFQCmIEFCXKcNIH7XRyd/ti9zLHP5mthh8xkzIcxKLoN6hyy+wXYU0tkktmkv4I3\n3GiKLvb/VNzGXpEj+kyDERHm834idBRshP6behYhAewevkPZSZ/d9iXJWrjb2qDY\nH/cvUrg7apPlYNyyi1JatBGwWQKBgQDdl3gC+/uEyS8/9UDshZWM2ufYH3fE2kPJ\n1HrMbEpFeL/Lp0nFSUwEEdbALD4T20w2svVnq8OeBclcqWHzmtM4psyjd0l43/PT\nzKBJOts1xBW61lszTvkmITH2CR5UPjJf/h8LbVWHjkyvbukCwBzSzL+HpM/hIOrM\nkA0PoE+z4wKBgQDJF6thwUSRVZZzJ60TR2M3h6YMvzgpvsvkLi55q8EfRas30h+E\nrIlu3YR/XF0HNgOeHnHvClBI4mvZykIja0td5J+huUlBPKvuzWHNYxdXOpGMbdZE\n2m34/pc8VbJc7Z2pMSukbYJpLzCNxJwM6Xuoq8R1bdg8Hu7iUd+ByA8IsQKBgHzW\n6vvzbp4+oeoMiAk4sSpr4ZY3FEjJFsvMc2pbz/QXtSZNFxiY1MSuMCiQRGD3eZaP\neAZyFIEgjXMw0khl/325Ky0k9TWuJjY64EqhaAKAeCWMwlDDu0YqCXWtaXLYn5TJ\nHEBZ1ofKOZXUjF3KUfLI+1a2GY+h9eZNea5GCOE1AoGBAKLEN/M5rJvrraHCoysD\nLQMiQTY4AHzcCnIsjk+MDIQq9r7eIhMzYFQB7ntCZNREHHorR6nEaf9pUKbQa4aR\nDAtGgnzchWZxxLb40Kf1v0UeTJDhw1MoxIe1gX6oJfVJsVdFyyXY4lmpKGGwuhFu\neWGlYC5i8FErUekHdg/4zjln\n-----END PRIVATE KEY-----\n",
+  "client_email": "pdf-busqueda@bitacora-458317.iam.gserviceaccount.com",
+  "client_id": "105797174025835256436",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pdf-busqueda%40bitacora-458317.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
